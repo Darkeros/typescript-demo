@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",//默认编译到dist目录
+    "target": "ESNext"
+  },
+  "include": [//只编译src目录
+    "src/**/*"
+  ]
+}
